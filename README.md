@@ -9,3 +9,7 @@ Double *click* "Υπολογισμός_Αποζημίωσης.py" file, and then
 5) Price per unit of product,ex. 0.07 if the product pays 70 cents per kilo (Τιμή ανά μονάδα προιόντος, πχ 0.07 για 70 λεπτα το κιλό πληρωμή)
  After these it prints your result, the money you deserve 
  If you like you re-calculate it just press enter, or if you want to stop type "stop" and press enter.
+ 
+ 
+ 
+ To run it in windows you just have to download the python installer https://www.python.org/downloads/ (just press the Download PythonX.X.X button) and run the file that it downloads, in order to install it. After the installation you are ready to run the program.
