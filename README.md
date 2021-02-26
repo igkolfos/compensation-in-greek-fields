@@ -12,4 +12,4 @@ Double *click* "Υπολογισμός_Αποζημίωσης.py" file, and then
  
  
  
- To run it in windows you just have to download the python installer https://www.python.org/downloads/ (just press the Download PythonX.X.X button) and run the file that it downloads, in order to install it. After the installation you are ready to run the program.
+ To run it in Windows you just have to download the python installer https://www.python.org/downloads/ (just press the Download PythonX.X.X button) and run the file which was downloaded, in order to install the python interpreter it needs. Just press "next" in every step. After the installation you are ready to run the program.
