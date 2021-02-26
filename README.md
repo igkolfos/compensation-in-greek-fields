@@ -1,5 +1,5 @@
-# apozimiosi_elga_fytikh
-** My first program ** : Υπολογισμός ποσού αποζημίωσης ΕΛΓΑ για φυτικές παραγωγές. -- Computing amount of compensation in greek fieldsarming field
+# compensation in greek fields - apozimiosi elga fytikh
+** My first program ** : Υπολογισμός ποσού αποζημίωσης ΕΛΓΑ για φυτικές παραγωγές. -- Computing amount of compensation in greek fields
 
 To compute after you run it, you have to give as an input:
 1) Area of land in acres (Έκταση Αγροτεμαχίου σε στρέμματα)
