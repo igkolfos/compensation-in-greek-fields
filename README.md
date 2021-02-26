@@ -1,7 +1,7 @@
 # compensation in greek fields - apozimiosi elga fytikh
 ** My first program ** : Υπολογισμός ποσού αποζημίωσης ΕΛΓΑ για φυτικές παραγωγές. -- Computing amount of compensation in greek fields
 
-To compute after you run it, you have to give as an input:
+Double *click* "Υπολογισμός_Αποζημίωσης.py" file, and then give as input:
 1) Area of land in acres (Έκταση Αγροτεμαχίου σε στρέμματα)
 2) Average production, per acre (Μέση παραγωγή σε κιλά, ανά στρέμμα)
 3) Percent of damage (0 - 100), just the number, not the "%" symbol (Ποσοστό ζημιάς (0 - 100))
